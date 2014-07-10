@@ -1,9 +1,9 @@
-Building XCoin
+Building NOXI
 
-See doc/readme-qt.rst for instructions on building XCoin-qt,
+See doc/readme-qt.rst for instructions on building NOXI-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of XCoin.
+implementation of NOXI.
 
-See doc/build-*.txt for instructions on building XCoin,
+See doc/build-*.txt for instructions on building NOXI,
 the intended-for-services, no-graphical-interface, reference
-implementation of XCoin.
+implementation of NOXI.
