@@ -2026,7 +2026,7 @@ bool LoadBlockIndex(bool fAllowNew)
         if (fTestNet)
         {
             block.nTime    = 1404999773; //testnet epochtime
-            block.nNonce   = 0; //testnet
+            ;
         }
 
         //// debug print
